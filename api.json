@@ -3,10 +3,10 @@
  "result": [
   {
     "url": "http://forum.xda-developers.com/devdb/project/dl/?id=14985&task=get",
-    "timestamp": "1446494544",
+    "timestamp": "01202311",
     "api_level": "22",
-    "md5sum": "c11268e43e390dadd6d940e27c3f5836",
-    "filename": "cm-12.1-20151102-Weeklys-Racpu-bacon.zip",
+    "md5sum": "137dd0cf751e6fe1e2802997456e6983",
+    "filename": "Racpu_ROM-CM12.1-v1.0-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
