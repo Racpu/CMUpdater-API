@@ -11,6 +11,16 @@
     "changes": "",
     "incremental": ""
     },
+  {
+    "url": "https://cld.pt/dl/download/f553546a-5024-423a-9df0-c5d098173976/Racpu_ROM-CM12.1-v1.0-bacon.zip?download=true",
+    "timestamp": "204868804",
+    "api_level": "22",
+    "md5sum": "137dd0cf751e6fe1e2802997456e6983",
+    "filename": "Racpu_ROM-CM12.1-v1.0-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
