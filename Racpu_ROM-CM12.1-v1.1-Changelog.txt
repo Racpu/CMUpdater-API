@@ -1,1 +1,7 @@
-Teste
+Racpu_ROM-CM12.1-v1.1-Changelog
+
+- Fix crash if Exif-Tag buffer-length and component-count are both 0 (android_packages_apps_Trebuchet)
+- Trebuchet: Enable HW Layers in app drawer (android_packages_apps_Trebuchet)
+- contributors: add LG G4, remove cody from some devices (android_vendor_cm)
+- SystemUI: HeadsUp: Check if view isn't already in windowManager (android_frameworks_base)
+- trebuchet: ensure not overlaping shorcuts with dockbar items when searchbar is invisible (android_packages_apps_Trebuchet)
