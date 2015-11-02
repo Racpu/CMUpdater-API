@@ -3,10 +3,10 @@
  "result": [
   {
     "url": "https://cld.pt/dl/download/88817b23-70f7-45ee-972e-c4c07f69be87/Racpu_ROM-CM12.1-v1.1-bacon.zip?download=true",
-    "timestamp": "1446055062",
+    "timestamp": "1446493869",
     "api_level": "22",
-    "md5sum": "71598215c040b7d619f51181a5c7ec3e",
-    "filename": "Racpu_ROM-CM12.1-v1.1-bacon.zip",
+    "md5sum": "9f422bbc67fad3cc45aeb7e2d642e8fb",
+    "filename": "Racpu_CM12.1-v2.0-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "https://cld.pt/dl/download/2727a1d4-c721-4c7d-87e2-b3ab5a9abd0e/Racpu_ROM-CM12.1-v1.1-bacon-changes.txt",
     "incremental": ""
