@@ -2,10 +2,10 @@
  "id": null,
  "result": [
   {
-    "url": "https://cld.pt/dl/download/339c53f7-1ecf-4d97-a5f6-d141785d20cd/Racpu_CM12.1-v2.0-bacon.zip?download=true",
-    "timestamp": "1446493869",
+    "url": "https://cld.pt/dl/download/d888c21b-394b-46bf-b765-8fbfec75cb68/Racpu_CM12.1-v2.0-bacon.zip?download=true",
+    "timestamp": "1446541329",
     "api_level": "22",
-    "md5sum": "9f422bbc67fad3cc45aeb7e2d642e8fb",
+    "md5sum": "1ee4a5aa6d46596680fd57ef8262b9c9",
     "filename": "Racpu_CM12.1-v2.0-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "https://cld.pt/dl/download/17e31b20-3222-4e57-bd32-1a61c2851c32/Racpu_CM12.1-v2.0-bacon-changelog.txt",
