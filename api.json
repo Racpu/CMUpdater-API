@@ -11,16 +11,6 @@
     "changes": "https://cld.pt/dl/download/17e31b20-3222-4e57-bd32-1a61c2851c32/Racpu_CM12.1-v2.0-bacon-changelog.txt",
     "incremental": ""
     },
-   {
-    "url": "https://cld.pt/dl/download/9d4f9efb-78b2-4d8c-8f15-d9b02aa3c423/Racpu_CM12.1-v3.0-bacon.zip?download=true",
-    "timestamp": "1446623748",
-    "api_level": "22",
-    "md5sum": "40d01aa821d025ee1d370ab9cf392ee3",
-    "filename": "Racpu_CM12.1-v3.0-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://cld.pt/dl/download/e6aafaa3-65d0-48a1-af52-a47e3a77f3d8/Racpu_CM12.1-v3.0-bacon-changelog.txt",
-    "incremental": ""
-    },
   ],
  "error": null
 }
