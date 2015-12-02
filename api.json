@@ -1,7 +1,7 @@
 {
  "id": null,
  "result": [
-   {
+    {
     "url": "http://qc4.androidfilehost.com/dl/-sPW-N0zK2yv-oJrAZdxxA/1449317515/24269982087005995/RaCyanOS-V1.0-bacon.zip",
     "timestamp": "1448656834",
     "api_level": "23",
@@ -21,6 +21,6 @@
     "changes": "http://tx2.androidfilehost.com/dl/uM5gMFWdgtN14cx2A8mBWA/1449141959/24269982087008493/RaCyanOS-V3.0-bacon-01122015.txt",
     "incremental": ""
     },
-   ],
+  ],
  "error": null
 }
