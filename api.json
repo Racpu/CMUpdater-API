@@ -2,6 +2,16 @@
  "id": null,
  "result": [
     {
+    "url": "http://qc4.androidfilehost.com/dl/O5rNrnZNMXRrFxkmqoAS6A/1449489026/24269982087009547/RaCyanOS-V4.0-bacon.zip",
+    "timestamp": "1449024101",
+    "api_level": "23",
+    "md5sum": "34357938f4813f34fadfad590ffd5109",
+    "filename": "RaCyanOS-V4.0-bacon",
+    "channel": "NIGHTLY",
+    "changes": "http://ca1.androidfilehost.com/dl/CHLbEa_vkZ9-ECRR3SWL2g/1449489138/24269982087009529/RaCyanOS-V4.0-bacon-02122015.txt",
+    "incremental": ""
+    },
+    {
     "url": "http://ca1.androidfilehost.com/dl/A6tjCkpdjmvVbhwG-PMxoA/1449447643/24269982087010497/RaCyanOS-V5.0-bacon.zip",
     "timestamp": "1449217284",
     "api_level": "23",
