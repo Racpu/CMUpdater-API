@@ -6,9 +6,19 @@
     "timestamp": "1449574523",
     "api_level": "23",
     "md5sum": "2fb6bb0087b9f5419579670dad018709",
-    "filename": "RaCyanOS-V7.1-bacon",
+    "filename": "RaCyanOS-V7.1-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "http://qc3.androidfilehost.com/dl/1SIWc2MOd8PWc6G_VdcChw/1449803778/24269982087013575/RaCyanOS-V7.1-bacon-08122015.txt",
+    "incremental": ""
+    },
+    {
+    "url": "http://ca1.androidfilehost.com/dl/4VZLhOi2rX9KRbF8z6Bkhg/1450068446/24269982087015884/RaCyanOS-V8.0-bacon.zip",
+    "timestamp": "1449838083",
+    "api_level": "23",
+    "md5sum": "b93e018be655fff4de8283ccf3811e86",
+    "filename": "RaCyanOS-V8.0-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "http://qc3.androidfilehost.com/dl/gom7Oq6GiYMPwVXsKpqz7w/1450068441/24269982087015888/RaCyanOS-V8.0-bacon-11122015.txt",
     "incremental": ""
     },
   ],
