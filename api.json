@@ -2,13 +2,13 @@
  "id": null,
  "result": [
      {
-    "url": "http://fr1.androidfilehost.com/dl/d-m5vRJnjR3D1dz_tivMLg/1452188265/24352994023705887/RaCyanOS-V16.0-bacon.zip",
-    "timestamp": "1451952580",
+    "url": "https://ga1.androidfilehost.com/dl/t2tJUYtMFhX_ioIqmEn8cA/1452482670/24352994023708446/RaCyanOS-V17.0-bacon.zip",
+    "timestamp": "1452245045",
     "api_level": "23",
-    "md5sum": "e0b6b95b7ed2d7bfd8f3db41fd79e531",
-    "filename": "RaCyanOS-V16.0-bacon.zip",
+    "md5sum": "21419ee0fa10f4be5cc0cefc474c95bb",
+    "filename": "RaCyanOS-V17.0-bacon.zip",
     "channel": "NIGHTLY",
-    "changes": "https://fl1.androidfilehost.com/dl/KL7xPFgMJ_qOZKHW_S090Q/1452188273/24352994023705888/RaCyanOS-V16.0-bacon-Changelog_20160105.txt",
+    "changes": "https://fl1.androidfilehost.com/dl/2teHI9nGrNriUYi9fWUldg/1452482831/24352994023708479/RaCyanOS-V17.0-bacon-Changelog_20160108.txt",
     "incremental": ""
     },
   ],
